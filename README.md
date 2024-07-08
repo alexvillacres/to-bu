@@ -1,4 +1,4 @@
-# TO-DO
+# To-do
 
 - [ ] Create layout and styles for to-bu
 - [ ] Implement Tiptap
